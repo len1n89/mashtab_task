@@ -4,7 +4,6 @@ import QtQuick.Controls 2.12
 
 import CommandModel 1.0
 
-
 Window {
     id: root
 

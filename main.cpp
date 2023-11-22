@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-#include "commandmodel.h"
 
+#include "commandmodel.h"
 
 int main(int argc, char *argv[])
 {

@@ -1,6 +1,5 @@
 #include "commandmodel.h"
 
-
 CommandModel::CommandModel(QObject *parent)
 {
 
