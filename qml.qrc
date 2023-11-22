@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommandScreen.qml</file>
+        <file>AddScreen.qml</file>
+        <file>resources/singleselect.svg</file>
+        <file>resources/good.svg</file>
+    </qresource>
+</RCC>
